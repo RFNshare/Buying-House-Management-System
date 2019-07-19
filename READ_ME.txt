@@ -1,0 +1,2 @@
+All Database Table Migrateable. To Migrate Database Table Add 'use Illuminate\Support\Facades\Schema;' and inside boot function add Schema::defaultStringLength(191);
+at Abdullah_Al_Faroque\app\Providers\AppServiceProvider.php to migrate.
